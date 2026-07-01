@@ -343,9 +343,9 @@ The Startup shortcut will continue to work even after moving the applications.
 
 Once completed:
 
-- Laptop 2 automatically starts RealTimeSync after login.
+- Source Device automatically starts RealTimeSync after login.
 - File changes are monitored in real time.
-- Files are mirrored to Laptop 1.
+- Files are mirrored to Destination Device.
 - Deleted or modified files are stored in the Versioning folder.
 - Users do not need to manually start backups.
 
@@ -353,8 +353,8 @@ Once completed:
 
 # Notes
 
-- Both laptops must be connected to the same network.
-- Laptop 1 must be powered on and accessible.
+- Both Destination and Source Device must be connected to the same network.
+- Destination Device must be powered on and accessible.
 - Do not rename or move the shared folders after configuring FreeFileSync.
 - Keep the `backupsvc` password secure.
 - Periodically verify that backups are completing successfully.
@@ -364,3 +364,4 @@ Once completed:
 | Version | Date | Changes |
 |--------|------|--------|
 | 1.0 | 2026-07-01 | Initial version |
+| 1.1 | 2026-07-01 | Fixed some line errors |
