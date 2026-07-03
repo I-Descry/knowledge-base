@@ -26,6 +26,8 @@ net user Administrator /active:no
 
 ## Expected Output
 
+If executed successfully:
+
 ```text
 The command completed successfully.
 ```
@@ -34,9 +36,21 @@ The built-in **Administrator** account is disabled and will no longer appear on 
 
 ---
 
+## Common Error
+
+If Command Prompt is **not** run as Administrator:
+
+```text
+System error 5 has occurred.
+
+Access is denied.
+```
+
+---
+
 ## Notes
 
-- Run the command using an elevated Command Prompt.
+- Run the command using an elevated (Administrator) Command Prompt.
 - Ensure another administrator account is available before disabling the built-in Administrator account.
 - Disabling the account helps reduce unnecessary security exposure.
 
@@ -46,4 +60,5 @@ The built-in **Administrator** account is disabled and will no longer appear on 
 
 | Version | Date | Changes |
 |----------|------|---------|
+| 1.1 | 2026-07-03 | Added common error when not running Command Prompt as Administrator |
 | 1.0 | 2026-07-03 | Initial documentation |
