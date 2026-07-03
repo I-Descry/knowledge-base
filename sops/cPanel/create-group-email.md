@@ -292,3 +292,4 @@ When adding or removing employees from a department, update the forwarders inste
 |----------|------|---------|
 | 1.0 | 2026-07-03 | Initial documentation |
 | 1.1 | 2026-07-03 | Updated title | 
+| 1.2 | 2026-07-03 | Improved procedures |
