@@ -151,7 +151,7 @@ This repository is maintained for educational purposes, personal reference, and 
 
 ## ✍️ Author's Note
 
-> > "Knowledge fades when it's kept. It endures when it's shared."
+> "Knowledge fades when it's kept. It endures when it's shared."
 
 Good documentation reduces repetitive work, improves consistency, and preserves knowledge gained through real-world experience.
 
