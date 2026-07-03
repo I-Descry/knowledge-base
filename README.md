@@ -149,16 +149,10 @@ This repository is maintained for educational purposes, personal reference, and 
 
 ---
 
-## 🤝 Contributing
+## ✍️ Author's Note
 
-This is currently a personal knowledge base. Suggestions, improvements, and corrections are welcome through GitHub Issues or Pull Requests.
-
----
-
-## ⭐ Philosophy
-
-> "Document once. Reuse forever."
+> > "Knowledge fades when it's kept. It endures when it's shared."
 
 Good documentation reduces repetitive work, improves consistency, and preserves knowledge gained through real-world experience.
 
-This repository is a living collection of practical IT knowledge built through hands-on work in desktop support, system administration, networking, and everyday IT operations.
+This repository will be continuously updated by me (OAO)
