@@ -157,7 +157,7 @@ Assign the printer according to the department's IP addressing scheme.
 Example:
 
 ```text
-Department: JP
+Department: <Department Name>
 IP Address: 192.168.x.xxx
 ```
 
@@ -222,7 +222,7 @@ Enter the printer name according to the company naming convention.
 Example:
 
 ```text
-JP - Epson L5290
+<Department Name> Printer (Epson L5290)
 ```
 
 Click **Next**.
@@ -369,11 +369,11 @@ Assigning a static IP address before deploying the printer prevents connection i
 
 ## Related Documents
 
-- Reference → Epson L5290
-- Guide → Troubleshooting Epson L5290 Network Printer
-- Knowledge Base → Static vs Dynamic IP Address
-- Knowledge Base → TCP/IP Printing
-- SOP → Install Epson Printer Drivers
+- 
+- 
+- 
+- 
+- 
 
 ---
 
@@ -395,3 +395,4 @@ Always assign a static IP address after the printer successfully connects to the
 | Version | Date | Changes |
 |----------|------|---------|
 | 1.0 | 2026-07-03 | Initial documentation |
+| 1.1 | 2026-07-03 | Updated examples |
