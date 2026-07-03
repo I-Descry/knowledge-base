@@ -226,9 +226,6 @@ Using a standardized default password and requiring employees to change it immed
 ## Related Documents
 
 - SOP → Create Employee Email Account in cPanel
-- Workflow → Employee Email Password Reset
-- Reference → cPanel
-- Guide → Troubleshooting cPanel Email Login
 
 ---
 
