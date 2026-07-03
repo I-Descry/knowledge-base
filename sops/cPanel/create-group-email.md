@@ -51,9 +51,16 @@ Before starting, ensure the following are available:
 
 Open the cPanel login page.
 
-Sign in using an **Administrator (Admin) account**.
+Log in using the **administrator (Admin) account**.
 
-> **Note:** Only authorized IT administrators should perform this procedure.
+Enter the administrator credentials:
+
+```text
+Username: <Admin Username>
+Password: <Admin Password>
+```
+
+After successful authentication, the **cPanel Dashboard** will be displayed.
 
 ---
 
