@@ -60,5 +60,6 @@ Access is denied.
 
 | Version | Date | Changes |
 |----------|------|---------|
+| 1.2 | 2026-07-08 | Fix lines |
 | 1.1 | 2026-07-03 | Added common error when not running Command Prompt as Administrator |
 | 1.0 | 2026-07-03 | Initial documentation |
