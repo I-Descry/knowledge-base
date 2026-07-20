@@ -21,7 +21,7 @@ Changes the hostname (computer name) of a Windows computer using PowerShell.
 ## Script
 
 ```powershell
-Rename-Computer -NewName "NewPCName" - Restart
+Rename-Computer -NewName "NewPCName" -Restart
 ```
 
 Replace `"NewPCName"` with the desired computer name.
@@ -78,4 +78,5 @@ Rename-Computer -NewName "IT04-NETADMIN"
 
 | Version | Date | Changes |
 |----------|------|---------|
+| 1.1 | 2026-07-20 | Removed unnecessary spacing |
 | 1.0 | 2026-07-08 | Initial documentation |
