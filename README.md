@@ -58,7 +58,16 @@ Examples:
 
 ### 📋 Standard Operating Procedures (SOP)
 
-Step-by-step instructions for performing technical and administrative tasks consistently.
+Standardized procedures for performing recurring technical and administrative tasks consistently.
+
+Examples:
+
+- Email Administration
+- Printer Deployment
+- User Account Management
+- Device Configuration
+- Software Installation
+- Network Configuration
 
 ---
 
